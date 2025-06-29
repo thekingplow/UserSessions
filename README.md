@@ -15,4 +15,7 @@
 ### Вывод результатов (CLI)
 <img src="screens/sc1.png">
 <img src="screens/sc2.png">
+
 ### Отчет на почту 
+<img src="screens/sc3.png">
+<img src="screens/sc4.png">
