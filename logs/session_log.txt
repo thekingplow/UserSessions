@@ -1,0 +1,40 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20250623160210
+Username: DOMAIN\name.domain
+RunAs User: DOMAIN\name.domain
+Configuration Name: 
+Machine: DOMAIN-03 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -Command Import-Module 'c:\Users\name\.vscode\extensions\ms-vscode.powershell-2025.0.0\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2025.0.0' -BundledModulesPath 'c:\Users\name\.vscode\extensions\ms-vscode.powershell-2025.0.0\modules' -EnableConsoleRepl -StartupBanner "PowerShell Extension v2025.0.0
+Copyright (c) Microsoft Corporation.
+
+https://aka.ms/vscode-powershell
+Type 'help' to get help.
+" -LogLevel 'Warning' -LogPath 'c:\Users\name\AppData\Roaming\Code\logs\20250623T115226\window1\exthost\ms-vscode.powershell' -SessionDetailsPath 'c:\Users\name\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\sessions\PSES-VSCode-15092-165497.json' -FeatureFlags @() 
+Process ID: 15856
+PSVersion: 5.1.17763.7434
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.7434
+BuildVersion: 10.0.17763.7434
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\name\Desktop\PowerShell\UserSessions\logs\session_log.txt
+Черный список загружен:
+sql1
+sql2
+Полученные компьютеры:
+sql3
+sql4
+Компьютеры для проверки после исключения черного списка:
+sql3
+sql4
+INFO: На компьютере sql5 нет пользователей.
+INFO: На компьютере sql6 нет пользователей.
+
+**********************
+Windows PowerShell transcript end
+End time: 20250623160303
+**********************
